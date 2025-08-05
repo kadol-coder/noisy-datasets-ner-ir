@@ -1,0 +1,4 @@
+-DOCSTART- -X- -X- O U
+
+SOCCER NN B-NP O U
+- : O O U
